@@ -1,0 +1,14 @@
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/url_launcher_windows_plugin.dll
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/assets/1.glb
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/packages/flutter_3d_controller/assets/model-viewer.min.js
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/packages/flutter_3d_controller/assets/template.html
+D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

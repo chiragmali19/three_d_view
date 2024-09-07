@@ -1,0 +1,10 @@
+^D:\CODING FILES\FLUTTER\NEW PROJECTS\THREE_D_VIEW\BUILD\WINDOWS\X64\CMAKEFILES\FC02D0094A2716961AF25D3C8A960B07\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/Coding Files/Flutter/new projects/three_d_view/windows" "-BD:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Coding Files/Flutter/new projects/three_d_view/build/windows/x64/three_d_view.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
