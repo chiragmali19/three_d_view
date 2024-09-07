@@ -13,9 +13,8 @@
 
 ## 🎥 Demo Video
 
-## 🎥 Demo Video
-
 [![Watch the demo video on YouTube](https://github.com/user-attachments/assets/f690846e-109a-44c5-a2f0-e588a0034a43)](https://youtube.com/shorts/AasZgB3Mpsw?feature=share)
+
 **Click on above image to show demo video on Youtube**
 
 ## 🚀 Getting Started
