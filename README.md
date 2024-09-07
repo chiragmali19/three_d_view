@@ -13,7 +13,10 @@
 
 ## 🎥 Demo Video
 
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/AasZgB3Mpsw?si=r2_eYH0rTPBcGeE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+## 🎥 Demo Video
+
+[![Watch the demo video on YouTube](https://github.com/user-attachments/assets/f690846e-109a-44c5-a2f0-e588a0034a43)](https://youtube.com/shorts/AasZgB3Mpsw?feature=share)
+**Click on above image to show demo video on Youtube**
 
 ## 🚀 Getting Started
 
